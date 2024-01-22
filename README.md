@@ -11,6 +11,10 @@ Farmers often face economic losses and crop waste due to diseases in potato plan
 
 The primary goal is to provide a solution to the economic challenges faced by farmers by accurately identifying and classifying potato leaves affected by Early Blight and Late Blight. This classification system can assist farmers in taking timely actions to mitigate the impact of these diseases on crop yield.
 
+
+## DATA:Kaggle 
+
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 ## Project Inspiration
 
 This project is inspired by [this YouTube playlist](https://youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S), which provides valuable insights and tutorials on image classification using machine learning.
